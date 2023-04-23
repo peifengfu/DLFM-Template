@@ -9,4 +9,7 @@
 - *Leq (Bell) Template (1.0.0)*
 - - - 
 ***Download it at release page!***
+---
+### *Note*
+- Leq Template will release will release lately than MaxIF Template because it is in WIP
 
